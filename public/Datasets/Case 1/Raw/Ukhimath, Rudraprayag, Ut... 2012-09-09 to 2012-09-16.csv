@@ -1,0 +1,193 @@
+name,datetime,temp,feelslike,dew,humidity,precip,precipprob,preciptype,snow,snowdepth,windgust,windspeed,winddir,sealevelpressure,cloudcover,visibility,solarradiation,solarenergy,uvindex,severerisk,conditions,icon,stations
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T00:00:00,17.3,17.3,16.6,95.66,0,0,,,,,4.7,70,,18.2,,0,0,0,,Clear,clear-night,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T01:00:00,17.1,17.1,16.2,94.44,0,0,,,,,4.7,63.5,,14.5,,0,0,0,,Clear,clear-night,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T02:00:00,17,17,15.8,92.64,0,0,,,,,4.3,56.2,,10.7,,0,0,0,,Clear,clear-night,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T03:00:00,16.9,16.9,15.4,90.88,0,0,,,,,4.3,51.2,,8.4,,0,0,0,,Clear,clear-night,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T04:00:00,16.9,16.9,15,88.57,0,0,,,,,4.3,46,,7,,0,0,0,,Clear,clear-night,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T05:00:00,17,17,14.6,85.77,0,0,,,,,4.3,37.9,,6.2,,0,0,0,,Clear,clear-night,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T06:00:00,17.1,17.1,14.2,83.05,0,0,,,,,4,30.4,,6.6,,16,0.1,0,,Clear,clear-day,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T07:00:00,19,19,16,82.75,0,0,,,,,2.9,21.7,,8.5,,183.5,0.7,2,,Clear,clear-day,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T08:00:00,21.8,21.8,16.7,72.78,0,0,,,,,4,226.5,,8.4,,410.4,1.5,4,,Clear,clear-day,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T09:00:00,22.9,22.9,17.3,70.71,0,0,,,,,8.6,216.8,,10.6,,616.8,2.2,6,,Clear,clear-day,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T10:00:00,23.7,23.7,17.9,69.97,0,0,,,,,10.1,213.5,,8.9,,770.3,2.8,8,,Clear,clear-day,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T11:00:00,24.2,24.2,18.2,69.19,0,0,,,,,11.5,212.1,,10,,868.3,3.1,9,,Clear,clear-day,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T12:00:00,24.5,24.5,18.4,68.82,0,0,,,,,12.6,211.8,,12.6,,892.3,3.2,9,,Clear,clear-day,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T13:00:00,24.5,24.5,18.6,69.68,0,0,,,,,13.3,212.3,,15.5,,834.8,3,8,,Clear,clear-day,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T14:00:00,24.3,24.3,18.5,70.08,0,0,,,,,13.7,214.5,,19.4,,722,2.6,7,,Clear,clear-day,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T15:00:00,23.8,23.8,18.6,72.68,0,0,,,,,13.3,217.7,,30.2,,554,2,6,,Partially cloudy,partly-cloudy-day,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T16:00:00,23.1,23.1,18.8,76.77,0,0,,,,,12.6,221.7,,33.3,,361,1.3,4,,Partially cloudy,partly-cloudy-day,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T17:00:00,22,22,19.1,83.62,0,0,,,,,11.5,224.6,,43.7,,189.5,0.7,2,,Partially cloudy,partly-cloudy-day,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T18:00:00,20.8,20.8,19.5,92.27,0,0,,,,,7.6,221.2,,49.8,,34,0.1,0,,Partially cloudy,partly-cloudy-day,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T19:00:00,20,20,19.5,96.95,0,0,,,,,4.7,214.8,,59.1,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T20:00:00,19.8,19.8,19.5,98.15,0,0,,,,,4,213.5,,64.7,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T21:00:00,19.6,19.6,19.4,98.76,0,0,,,,,4.7,216.2,,69.9,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T22:00:00,19.5,19.5,19.3,98.76,0,0,,,,,5.8,216.3,,76.7,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-09T23:00:00,19.4,19.4,19.2,98.76,0,0,,,,,8.3,209.8,,79.5,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T00:00:00,19.3,19.3,19,98.15,0,0,,,,,11.5,206.4,,82.7,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T01:00:00,19,19,18.8,98.76,0,0,,,,,13.3,205.8,,87.6,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T02:00:00,18.7,18.7,18.5,98.76,0,0,,,,,13.3,208,,92.4,,0,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T03:00:00,18.6,18.6,18.4,98.75,0,0,,,,,12.2,206.4,,95.4,,0,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T04:00:00,18.4,18.4,18.2,98.75,0,0,,,,,9,203.7,,95.7,,0,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T05:00:00,18.2,18.2,18.1,99.37,0,0,,,,,6.5,205.5,,94.6,,0,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T06:00:00,18,18,18.1,100,0,0,,,,,6.1,210.4,,93.3,,2.1,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T07:00:00,18.7,18.7,18.4,98.14,0,0,,,,,7.6,213.2,,93.9,,31.1,0.1,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T08:00:00,19.5,19.5,18.7,95.13,0,0,,,,,11.2,215.5,,94.7,,93.2,0.3,1,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T09:00:00,20.1,20.1,18.9,92.81,0,0,,,,,13,211.8,,95.6,,150.3,0.5,2,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T10:00:00,20.5,20.5,19,91.11,0,0,,,,,15.1,212,,95.8,,199.9,0.7,2,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T11:00:00,20.8,20.8,19.1,90,0,0,,,,,17.3,213.6,,95.3,,229.6,0.8,2,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T12:00:00,20.9,20.9,19.2,90.01,0.1,100,rain,,,,19.1,215.9,,95.5,,246.1,0.9,2,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T13:00:00,20.7,20.7,19.2,91.13,0.1,100,rain,,,,20.2,217.2,,95.5,,215.1,0.8,2,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T14:00:00,20.5,20.5,19.1,91.68,0.1,100,rain,,,,20.2,217.3,,95.6,,190.6,0.7,2,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T15:00:00,20.4,20.4,19.1,92.25,0.1,100,rain,,,,20.2,217.2,,96.2,,168.2,0.6,2,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T16:00:00,20,20,19,93.97,0.1,100,rain,,,,18.4,214.3,,96.5,,118.2,0.4,1,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T17:00:00,19.7,19.7,19.1,96.34,0.1,100,rain,,,,14,206.3,,96.9,,60,0.2,1,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T18:00:00,19.3,19.3,19,98.15,0.1,100,rain,,,,10.1,193.1,,97.4,,8.8,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T19:00:00,19,19,18.9,99.38,0,0,,,,,9.7,192,,97.3,,0,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T20:00:00,18.9,18.9,18.8,99.38,0,0,,,,,10.8,186.7,,97.3,,0,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T21:00:00,18.9,18.9,18.7,98.76,0,0,,,,,11.9,177.2,,98,,0,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T22:00:00,18.7,18.7,18.5,98.76,0,0,,,,,13.7,172,,98.2,,0,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-10T23:00:00,18.5,18.5,18.3,98.75,0,0,,,,,15.5,167.5,,98.2,,0,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T00:00:00,18,18,17.8,98.75,0,0,,,,,13,159,,97.7,,0,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T01:00:00,17.4,17.4,17.2,98.74,0,0,,,,,10.4,147.9,,98.2,,0,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T02:00:00,16.8,16.8,16.5,98.11,0,0,,,,,9,128.2,,97.4,,0,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T03:00:00,16.3,16.3,15.8,96.86,0,0,,,,,9,106,,96.9,,0,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T04:00:00,15.9,15.9,15,94.39,0,0,,,,,8.6,88.9,,96.9,,0,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T05:00:00,15.4,15.4,14.3,93.16,0,0,,,,,7.2,73.6,,96.3,,0,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T06:00:00,15.2,15.2,14,92.55,0,0,,,,,6.5,60.9,,96.8,,3.2,0,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T07:00:00,15.9,15.9,14.3,90.22,0,0,,,,,6.1,59,,96.4,,43.9,0.2,0,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T08:00:00,17.2,17.2,14.5,84.14,0,0,,,,,5.8,70.3,,97,,133.1,0.5,1,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T09:00:00,18.7,18.7,15,79.08,0,0,,,,,5.4,133,,94.2,,247.9,0.9,2,,Overcast,cloudy,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T10:00:00,19.7,19.7,15.5,76.72,0.2,100,rain,,,,8.6,171.6,,88.2,,357.1,1.3,4,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T11:00:00,20.5,20.5,16,75.39,0.4,100,rain,,,,10.1,183.1,,72,,475.5,1.7,5,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T12:00:00,21.2,21.2,16.6,75.03,0.6,100,rain,,,,10.8,190.1,,61.6,,568.8,2,6,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T13:00:00,21.7,21.7,17,74.64,0.9,100,rain,,,,11.5,195.2,,50,,595.8,2.1,6,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T14:00:00,21.8,21.8,17.3,75.6,1.2,100,rain,,,,12.2,198.7,,45.5,,563.8,2,6,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T15:00:00,21.5,21.5,17.5,77.98,1.3,100,rain,,,,12.6,200.9,,47.6,,442.8,1.6,4,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T16:00:00,21,21,17.6,80.92,1.3,100,rain,,,,12.2,202.8,,47.6,,291,1,3,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T17:00:00,20.2,20.2,17.8,86.09,1,100,rain,,,,10.4,202.1,,53.2,,146.9,0.5,1,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T18:00:00,19.1,19.1,18,93.34,0.7,100,rain,,,,6.1,196.9,,61.7,,26.1,0.1,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T19:00:00,18.4,18.4,17.8,96.3,0.6,100,rain,,,,4.3,185.5,,66.5,,0,0,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T20:00:00,18.2,18.2,17.7,96.9,0.7,100,rain,,,,4,169.3,,77.7,,0,0,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T21:00:00,17.8,17.8,17.5,98.13,0.7,100,rain,,,,4.7,163.8,,82,,0,0,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T22:00:00,17.4,17.4,17.1,98.12,0.8,100,rain,,,,5,151.6,,97.7,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-11T23:00:00,17.1,17.1,16.7,97.5,0.9,100,rain,,,,5.8,139,,97.8,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T00:00:00,17,17,16.3,95.65,1,100,rain,,,,5.4,125.4,,96.5,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T01:00:00,16.3,16.3,15.7,96.24,1,100,rain,,,,5.4,85.6,,96.2,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T02:00:00,15.9,15.9,15.2,95.61,1.1,100,rain,,,,6.5,67,,96.7,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T03:00:00,15.5,15.5,14.6,94.37,1,100,rain,,,,6.8,60.4,,96.1,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T04:00:00,15.1,15.1,14.2,94.36,0.8,100,rain,,,,6.8,54.7,,96.3,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T05:00:00,15,15,13.8,92.53,0.7,100,rain,,,,7.2,48.9,,96.2,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T06:00:00,14.7,14.7,13.4,91.92,0.5,100,rain,,,,8.3,47,,96.5,,2.5,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T07:00:00,14.9,14.9,13.1,88.98,0.4,100,rain,,,,10.1,49.6,,97,,35.3,0.1,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T08:00:00,15.4,15.4,13,85.61,0.6,100,rain,,,,11.2,57.4,,96.9,,87.7,0.3,1,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T09:00:00,16.4,16.4,13.6,83.51,0.4,100,rain,,,,9.4,71,,96.8,,154.9,0.6,2,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T10:00:00,17.8,17.8,14.9,83.13,0.5,100,rain,,,,5.8,106.4,,96,,273.5,1,3,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T11:00:00,19.5,19.5,16.6,83.33,0.7,100,rain,,,,6.8,172.5,,95.6,,382.6,1.4,4,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T12:00:00,21.1,21.1,18.1,83,1,100,rain,,,,12.6,196.3,,89,,533.8,1.9,5,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T13:00:00,22.1,22.1,18.6,80.56,1.1,100,rain,,,,15.8,205.5,,83.9,,648.8,2.3,6,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T14:00:00,22.5,22.5,18.7,79.11,1,100,rain,,,,16.6,213,,82.3,,617.8,2.2,6,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T15:00:00,22.2,22.2,18.8,81.08,1,100,rain,,,,15.8,218.4,,75.7,,433,1.6,4,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T16:00:00,21.5,21.5,19.1,86.22,1,100,rain,,,,15.8,221.9,,78.7,,294.8,1.1,3,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T17:00:00,20.6,20.6,19.4,92.84,0.8,100,rain,,,,13.7,220.1,,87.6,,116.7,0.4,1,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T18:00:00,19.9,19.9,19.5,97.55,0.6,100,rain,,,,10.4,213.1,,87,,18.9,0.1,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T19:00:00,19.5,19.5,19.3,98.76,0.5,100,rain,,,,11.2,210.6,,88.4,,0,0,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T20:00:00,19.3,19.3,19.1,98.76,0.6,100,rain,,,,12.2,206.2,,91.7,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T21:00:00,19.1,19.1,18.9,98.76,0.5,100,rain,,,,11.9,201.6,,93.7,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T22:00:00,18.7,18.7,18.6,99.38,0.4,100,rain,,,,9,200.5,,93.5,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-12T23:00:00,18.4,18.4,18.3,99.37,0.4,100,rain,,,,7.2,200.7,,92,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T00:00:00,18.3,18.3,18.3,100,0.4,100,rain,,,,6.1,195.8,,94.9,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T01:00:00,18.3,18.3,18.2,99.37,0.4,100,rain,,,,6.5,194.1,,96.4,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T02:00:00,18.3,18.3,18.1,98.75,0.4,100,rain,,,,6.8,202.4,,97.3,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T03:00:00,18.1,18.1,18,99.37,0.4,100,rain,,,,6.5,209.2,,98,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T04:00:00,17.8,17.8,17.7,99.37,0.5,100,rain,,,,6.5,212.2,,98.1,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T05:00:00,17.8,17.8,17.7,99.37,0.5,100,rain,,,,6.8,214.4,,97.8,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T06:00:00,17.9,17.9,17.7,98.75,0.5,100,rain,,,,8.6,214.8,,96.4,,2.5,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T07:00:00,18.5,18.5,18.2,98.14,0.5,100,rain,,,,10.4,217.5,,96,,44,0.2,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T08:00:00,19,19,18.5,96.92,0.6,100,rain,,,,13,226,,94.7,,112.5,0.4,1,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T09:00:00,19.5,19.5,18.6,94.54,0.9,100,rain,,,,15.8,235.2,,88.9,,231.4,0.8,2,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T10:00:00,20.2,20.2,18.7,91.09,1.1,100,rain,,,,17.6,238.6,,89.1,,341.6,1.2,3,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T11:00:00,20.8,20.8,18.8,88.33,1,100,rain,,,,19.8,237.7,,89.2,,403.5,1.5,4,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T12:00:00,21.6,21.6,19,85.16,1,100,rain,,,,22.3,238.3,,86.7,,516.5,1.9,5,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T13:00:00,22,22,19.1,83.62,1,100,rain,,,,24.8,238.3,,85.9,,546,2,5,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T14:00:00,21.8,21.8,19.2,85.18,1,100,rain,,,,25.9,238.3,,88.4,,429.6,1.5,4,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T15:00:00,21.4,21.4,19.4,88.38,1.2,100,rain,,,,25.6,238.6,,84.9,,373.5,1.3,4,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T16:00:00,20.8,20.8,19.3,91.13,1.2,100,rain,,,,23.8,238.1,,84.3,,203.3,0.7,2,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T17:00:00,20.1,20.1,19.4,95.75,1.1,100,rain,,,,20.2,233.2,,89.7,,94.5,0.3,1,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T18:00:00,19.6,19.6,19.3,98.15,0.9,100,rain,,,,17.3,224.2,,95.4,,17.5,0.1,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T19:00:00,19.3,19.3,19,98.15,0.9,100,rain,,,,15.8,220.5,,95.9,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T20:00:00,19.1,19.1,18.9,98.76,1.1,100,rain,,,,14.4,220.2,,95.9,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T21:00:00,19.1,19.1,18.9,98.76,1,100,rain,,,,15.8,219.4,,95.3,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T22:00:00,19,19,18.8,98.76,1,100,rain,,,,15.1,216.8,,95.9,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-13T23:00:00,18.8,18.8,18.5,98.14,0.9,100,rain,,,,14.8,214.3,,96.4,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T00:00:00,18.6,18.6,18.4,98.75,0.9,100,rain,,,,14.8,213.2,,96,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T01:00:00,18.4,18.4,18.1,98.13,1,100,rain,,,,13.3,213.5,,96.4,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T02:00:00,18,18,17.8,98.75,1,100,rain,,,,11.9,209.9,,96.6,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T03:00:00,17.7,17.7,17.5,98.75,0.9,100,rain,,,,11.5,202.5,,96.1,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T04:00:00,17.6,17.6,17.4,98.75,0.8,100,rain,,,,12.6,196.8,,96,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T05:00:00,17.6,17.6,17.4,98.75,0.7,100,rain,,,,13.3,192.3,,96.4,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T06:00:00,17.6,17.6,17.3,98.12,0.5,100,rain,,,,13.7,187.1,,95.6,,1.9,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T07:00:00,17.9,17.9,17.6,98.13,0.5,100,rain,,,,14,185.4,,95.3,,32.2,0.1,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T08:00:00,18.5,18.5,18,96.91,0.6,100,rain,,,,14.8,180.8,,94.4,,81.6,0.3,1,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T09:00:00,19.1,19.1,18.4,95.72,0.3,100,rain,,,,15.5,181,,93.3,,139.4,0.5,1,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T10:00:00,19.4,19.4,18.3,93.36,0.4,100,rain,,,,14.4,180.7,,92.7,,191.1,0.7,2,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T11:00:00,19.6,19.6,17.7,88.79,0.5,100,rain,,,,13,178.6,,92.9,,239.8,0.9,2,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T12:00:00,19.9,19.9,17.3,84.98,0.6,100,rain,,,,11.2,176.8,,93.7,,310.5,1.1,3,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T13:00:00,20.4,20.4,17.2,81.87,0.8,100,rain,,,,10.4,179.9,,94.4,,386.1,1.4,4,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T14:00:00,20.6,20.6,17.2,80.87,0.8,100,rain,,,,9.7,186.4,,94.1,,327.9,1.2,3,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T15:00:00,20.6,20.6,17.6,82.94,0.9,100,rain,,,,9.4,194.4,,96.3,,288.4,1,3,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T16:00:00,20,20,18,88.27,1,100,rain,,,,8.3,201.6,,96.7,,163.8,0.6,2,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T17:00:00,19.3,19.3,18.2,93.35,0.9,100,rain,,,,6.1,208.9,,97.1,,64,0.2,1,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T18:00:00,18.9,18.9,18.2,95.71,0.9,100,rain,,,,4.7,211.3,,97.4,,12.4,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T19:00:00,18.5,18.5,18,96.91,1,100,rain,,,,6.1,222.1,,97.3,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T20:00:00,18,18,17.5,96.9,1.1,100,rain,,,,7.2,234,,95.7,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T21:00:00,17.8,17.8,17.5,98.13,0.9,100,rain,,,,6.1,231.7,,95.4,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T22:00:00,17.8,17.8,17.6,98.75,0.9,100,rain,,,,6.8,229.3,,94.4,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-14T23:00:00,17.9,17.9,17.7,98.75,0.8,100,rain,,,,9,232.1,,93.8,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T00:00:00,18,18,17.8,98.75,0.8,100,rain,,,,11.5,234.3,,94.3,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T01:00:00,18.1,18.1,17.9,98.75,0.7,100,rain,,,,11.9,236.2,,93.9,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T02:00:00,17.9,17.9,17.7,98.75,0.6,100,rain,,,,11.2,236.5,,93.8,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T03:00:00,17.6,17.6,17.4,98.75,0.5,100,rain,,,,9.7,236.8,,94.5,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T04:00:00,17.3,17.3,17.2,99.37,0.4,100,rain,,,,8.3,237.9,,90.6,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T05:00:00,17.2,17.2,17.1,99.37,0.3,100,rain,,,,7.9,236.8,,71.7,,0,0,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T06:00:00,17.2,17.2,17,98.74,0.2,100,rain,,,,8.3,237.2,,60.7,,4.4,0,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T07:00:00,18.3,18.3,17.8,96.91,0.2,100,rain,,,,11.2,236.1,,46.9,,85.4,0.3,1,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T08:00:00,19.1,19.1,18.3,95.12,0.2,100,rain,,,,14,237.3,,45.2,,225.2,0.8,2,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T09:00:00,19.9,19.9,18.5,91.65,0.2,100,rain,,,,15.8,242.3,,45.9,,356.4,1.3,4,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T10:00:00,20.9,20.9,18.5,86.16,0.3,100,rain,,,,18.4,247.6,,33.5,,475.5,1.7,5,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T11:00:00,21.8,21.8,18.6,82.05,0.4,100,rain,,,,20.2,251.4,,35.8,,618.3,2.2,6,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T12:00:00,22.3,22.3,18.5,79.09,0.6,100,rain,,,,20.5,252.3,,37.5,,632,2.3,6,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T13:00:00,22.5,22.5,18.7,79.11,0.7,100,rain,,,,20.9,250.8,,44.5,,620.3,2.2,6,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T14:00:00,22.3,22.3,18.9,81.09,0.7,100,rain,,,,21.2,249.2,,46.9,,537.5,1.9,5,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T15:00:00,21.7,21.7,19.2,85.7,0.6,100,rain,,,,20.9,247.3,,56,,353.6,1.3,4,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T16:00:00,21.2,21.2,19.5,90.03,0.4,100,rain,,,,20.2,245.4,,54.1,,239.9,0.9,2,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T17:00:00,20.7,20.7,19.7,94,0.4,100,rain,,,,18,240.8,,61.4,,118.2,0.4,1,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T18:00:00,20.2,20.2,19.8,97.55,0.3,100,rain,,,,14.8,234.9,,74.7,,17.2,0.1,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T19:00:00,19.9,19.9,19.7,98.77,0.3,100,rain,,,,15.8,235.7,,89.6,,0,0,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T20:00:00,19.6,19.6,19.4,98.76,0.3,100,rain,,,,16.2,235.7,,95,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T21:00:00,19.2,19.2,19,98.76,0.3,100,rain,,,,15.5,235.1,,95.4,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T22:00:00,18.9,18.9,18.6,98.14,0.3,100,rain,,,,14,235.7,,95.7,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-15T23:00:00,18.5,18.5,18.3,98.75,0.3,100,rain,,,,13,235,,95.8,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T00:00:00,18.3,18.3,18,98.13,0.3,100,rain,,,,12.6,234.6,,95.6,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T01:00:00,18,18,17.7,98.13,0.3,100,rain,,,,12.2,235.4,,93.9,,0,0,0,,"Rain, Overcast",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T02:00:00,17.7,17.7,17.5,98.75,0.3,100,rain,,,,11.9,238.8,,76.6,,0,0,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T03:00:00,17.4,17.4,17.2,98.74,0.3,100,rain,,,,10.1,238,,68.1,,0,0,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T04:00:00,17.2,17.2,16.9,98.12,0.3,100,rain,,,,7.9,230,,60.2,,0,0,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T05:00:00,16.9,16.9,16.7,98.74,0.3,100,rain,,,,5.8,218.3,,60.6,,0,0,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T06:00:00,16.7,16.7,16.5,98.74,0.3,100,rain,,,,5,202.4,,63.3,,4,0,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T07:00:00,17.5,17.5,17,96.89,0.3,100,rain,,,,7.6,193.6,,68,,69.9,0.3,1,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T08:00:00,18.2,18.2,17.3,94.49,0.3,100,rain,,,,10.1,196.6,,74.3,,150.6,0.5,2,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T09:00:00,18.8,18.8,17.4,91.58,0.2,100,rain,,,,11.9,199,,78.7,,219.4,0.8,2,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T10:00:00,19.3,19.3,17.5,89.33,0.3,100,rain,,,,13,197.4,,82.8,,278.6,1,3,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T11:00:00,19.8,19.8,17.6,87.14,0.3,100,rain,,,,13.7,198.1,,83.5,,317.8,1.1,3,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T12:00:00,20,20,17.7,86.61,0.4,100,rain,,,,13.7,200.3,,81.8,,327,1.2,3,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T13:00:00,20.1,20.1,17.8,86.62,0.3,100,rain,,,,14,202,,84.1,,296.4,1.1,3,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T14:00:00,20,20,18,88.27,0.3,100,rain,,,,14.4,206.6,,85.8,,259.1,0.9,3,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T15:00:00,19.9,19.9,18.2,89.94,0.3,100,rain,,,,15.1,209.8,,85.5,,223.4,0.8,2,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T16:00:00,19.7,19.7,18.4,92.21,0.2,100,rain,,,,16.2,211.4,,84.6,,159.1,0.6,2,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T17:00:00,19.3,19.3,18.5,95.13,0.2,100,rain,,,,15.8,210.6,,83.9,,80.6,0.3,1,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T18:00:00,18.9,18.9,18.6,98.14,0.1,100,rain,,,,13.3,207.1,,82.8,,13.9,0.1,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T19:00:00,18.7,18.7,18.5,98.76,0.2,100,rain,,,,14.4,207.1,,78.6,,0,0,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T20:00:00,18.6,18.6,18.5,99.38,0.2,100,rain,,,,15.5,209.2,,76.6,,0,0,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T21:00:00,18.5,18.5,18.3,98.75,0.2,100,rain,,,,12.6,204.4,,71.8,,0,0,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T22:00:00,18.2,18.2,18.1,99.37,0.2,100,rain,,,,10.8,199.6,,69.1,,0,0,0,,"Rain, Partially cloudy",rain,remote
+"Ukhimath, Rudraprayag, Uttarakhand",2012-09-16T23:00:00,18.1,18.1,17.9,98.75,0.2,100,rain,,,,10.4,197.2,,65.3,,0,0,0,,"Rain, Partially cloudy",rain,remote
