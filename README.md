@@ -9,4 +9,4 @@ To use your own data, export it into a csv format and paste it in the data folde
 then either rename it as data1.csv or replace the name in /src/chart.tsx
 
 ## If all goes well, your website should show this
-[Data Visualised](https://imgur.com/m4oXpf1)
+![Data Visualised](https://imgur.com/m4oXpf1)
