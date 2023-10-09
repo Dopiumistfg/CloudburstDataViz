@@ -8,4 +8,5 @@ Type npm run dev in console
 To use your own data, export it into a csv format and paste it in the data folder (public/data)
 then either rename it as data1.csv or replace the name in /src/chart.tsx
 
-![https://imgur.com/a/tvMlAQU]
+## If all goes well, your website should show this
+![Data Visualised](https://imgur.com/a/tvMlAQU)
