@@ -9,4 +9,5 @@ To use your own data, export it into a csv format and paste it in the data folde
 then either rename it as data1.csv or replace the name in /src/chart.tsx
 
 ## If all goes well, your website should show this
-![Data Visualised](https://github.com/Dopiumistfg/CloudburstDataViz/blob/main/public/Screenshot%202023-10-09%20215707.png)
+
+![Screenshot 2023-10-09 215707](https://github.com/Dopiumistfg/CloudburstDataViz/assets/91946606/bbc27442-187c-49e9-9447-a87309350af0)
